@@ -19,7 +19,8 @@ I can build you a multifunctional website with user friendly interface
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romantelemuha)](https://github.com/romantelemuha/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=romantelemuha&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/romantelemuha/github-readme-stats#gh-dark-mode-only)
 
-
+### GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romantelemuha&layout=donut)](https://github.com/romantelemuha/github-readme-stats)
 

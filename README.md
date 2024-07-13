@@ -19,6 +19,6 @@ I can build you a multifunctional website with user friendly interface
 
 </br>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romantelemuha)](https://github.com/romantelemuha/github-readme-stats)
 
 

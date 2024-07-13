@@ -8,7 +8,6 @@ I can build you a multifunctional website with user friendly interface
 ![Static Badge](https://img.shields.io/badge/Instagram-%23FFD700?logo=Instagram)
 
 ![Static Badge](https://img.shields.io/badge/linkedIn-%231E90FF?logo=linkedIn)
-[LinkedIn](https://www.linkedin.com/in/roman-telemukha-6065b8319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ![Static Badge](https://img.shields.io/badge/Telegram-%234169E1?logo=Telegram)
 
